@@ -6,6 +6,4 @@ Abstract. In a rapidly changing world, it is important to understand how environ
 
 Link for the full text: https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.04888?af=R .
 
-Link for the JSMM code: https://github.com/LEEClab/JSMM .
-
-The code is in the JSMM_bird_traits.html file. Use the link to view the rendered version here: https://github.com/LEEClab/MultipleLandscapes_JSMM.
+Link for the JSMM code and demonstration: https://github.com/LEEClab/JSMM .
